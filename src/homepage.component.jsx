@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './homepage.stryles.scss';
 const HomePage = ()=> (
     <div className ="homepage">
         <div className='directory-menu'>
