@@ -1,4 +1,7 @@
 import React from 'react';
+
+
+
 import './homepage.stryles.scss';
 
 import Directory from '../../components/directory/directory.component';
